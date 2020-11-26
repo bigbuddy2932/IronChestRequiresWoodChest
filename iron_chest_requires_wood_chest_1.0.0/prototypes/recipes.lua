@@ -4,7 +4,7 @@ data:extend({
     name = "iron-chest",
     ingredients =
     {
-      {"wood-chest", 1},
+      {"wooden-chest", 1},
       {"iron-plate", 4}
     },
     result = "iron-chest",
