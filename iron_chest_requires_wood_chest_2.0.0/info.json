@@ -1,16 +1,13 @@
 {
 	"name": "iron_chest_requires_wood_chest",
-	"version": "1.1.3",
+	"version": "2.0.0",
 	"title": "Iron Chest Requires Wood Chest",
 	"author": "TheInsaneOne2932",
     "contact": "Discord: bigbuddy2932",
 	"homepage": "https://mods.factorio.com/user/TheInsaneOne2932",
-	"factorio_version": "1.1",
+	"factorio_version": "2.0",
 	"dependencies": [
-		"base >= 1.1.0",
-		"boblibrary >= 1.1.4",
-		"? LB-Modular-Chests >= 1.1.11",
-		"? angelsbioprocessing >= 0.7.20"
+		"base >= 2.0"
 	],
 	"description": "This mod changes the iron chest recipe from requiring 8 iron plates to requiring 1 wood chest and 4 iron plates."
 }
